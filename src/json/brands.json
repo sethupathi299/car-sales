@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "Brand": "Audi",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhWgtKs4pRiEiPrGhnrjxR3jATZTxMGT1lg&usqp=CAU",
+      "Location": "chennai",
+      "BodyType": "SUV",
+      "Owners": "1st Owner",
+      "price": 1000000,
+      "Transmission": "automatic",
+      "FuelType": "Petrol",
+      "image": ""
+    },
+    {
+      "Brand": "Audi",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhWgtKs4pRiEiPrGhnrjxR3jATZTxMGT1lg&usqp=CAU",
+      "Location": "chennai",
+      "BodyType": "SUV",
+      "Owners": "2nd Owner",
+      "price": 1000000,
+      "Transmission": "automatic",
+      "FuelType": "Petrol",
+      "image": ""
+    },
+    {
+      "Brand": "Audi",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhWgtKs4pRiEiPrGhnrjxR3jATZTxMGT1lg&usqp=CAU",
+      "Location": "chennai",
+      "BodyType": "SUV",
+      "Owners": "1st Owner",
+      "price": 1000000,
+      "Transmission": "automatic",
+      "FuelType": "Petrol",
+      "image": ""
+    },
+    {
+      "Brand": "Bmw",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSpirHK1MPSjqU5gHzKuRmSeeTRHAXfwHCPQ&usqp=CAU",
+      "Location": "bangalore",
+      "FuelType": "diesel",
+      "BodyType": "sedan",
+      "Owners": "1st Owner",
+      "price": 1500000,
+      "Transmission": "manual",
+      "image": ""
+    },
+    {
+      "Brand": "Volvo",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGYLHRmudJz_gyYDFlM2mQ_huqg7wV8D9Akg&usqp=CAU",
+      "Location": "chennai",
+      "BodyType": "hatchback",
+      "Owners": "2st Owner",
+      "price": 500000,
+      "Transmission": "manual",
+      "FuelType": "petrol",
+      "image": ""
+    },
+    {
+      "Brand": "Hyundai",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlr6gWq8b7dL-2NRcUKfd3Hkp0qY2AMrVrw&usqp=CAU",
+      "Location": "bangalore",
+      "BodyType": "suv",
+      "Owners": "3rd Owner",
+      "price": 200000,
+      "Transmission": "manual",
+      "FuelType": "petrol",
+      "image": ""
+    },
+    {
+      "Brand": "Volkswagen",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLGuS5I-P6-5GtLHp4gbiKuE3boZHQSU_mQ&usqp=CAU",
+      "Location": "bangalore",
+      "BodyType": "suv",
+      "FuelType": "petrol",
+
+      "Owners": "1st Owner",
+      "price": 400000,
+      "Transmission": "manual",
+      "image": ""
+    },
+    {
+      "Brand": "Nissan",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiPoUALHQGxf-b5IPoR5wbabq2p0xFBVPteQ&usqp=CAU",
+      "Location": "bangalore",
+      "BodyType": "suv",
+      "Owners": "1st Owner",
+      "FuelType": "diesel",
+
+      "price": 200000,
+      "Transmission": "automatic",
+      "image": ""
+    },
+    {
+      "Brand": "Maruti",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVLD0WELnoW1UdUizct7vvy94CnTtakvFxQ&usqp=CAU",
+      "Location": "bangalore",
+      "BodyType": "suv",
+      "FuelType": "diesel",
+
+      "Owners": "1st Owner",
+      "price": 1000000,
+      "Transmission": "automatic",
+      "image": ""
+    },
+    {
+      "Brand": "Honda",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lVOGgoHdD1TXwuUDi3ASxVaeqH1VYj86EA&usqp=CAU",
+      "Location": "bangalore",
+      "BodyType": "suv",
+      "Owners": "1st Owner",
+      "FuelType": "diesel",
+
+      "price": 350000,
+      "Transmission": "manual",
+      "image": ""
+    },
+    {
+      "Brand": "Benz",
+      "logo": "data:image/jpeg;base64,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",
+      "Location": "bangalore",
+      "BodyType": "suv",
+      "Owners": "1st Owner",
+      "FuelType": "petrol",
+
+      "price": 1000000,
+      "Transmission": "automatic",
+      "image": ""
+    }
+  ]
+}
